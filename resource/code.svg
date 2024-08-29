@@ -36,35 +36,35 @@
 
   <text x="40" y="710" class="code"><tspan class="keyword">void</tspan> learn() {</text>
   <text x="60" y="750" class="code"><tspan class="purple">language</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    JAVA"</tspan>);</text>
-  <image href="./java.png" x="224" y="730" width="32" height="32"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/java.png?raw=true" x="224" y="730" width="32" height="32"></image>
   <text x="60" y="790" class="code"><tspan class="purple">language</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Thymeleaf"</tspan>);</text>
-  <image href="./thymeleaf.png" x="224" y="770" width="32" height="32"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/thymeleaf.png?raw=true" x="224" y="770" width="32" height="32"></image>
 
 
   <text x="60" y="870" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Spring boot"</tspan>);</text>
-  <image href="./spring.png" x="350" y="850" width="30" height="30"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/spring.png?raw=true" x="350" y="850" width="30" height="30"></image>
   <text x="60" y="910" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Spring Security"</tspan>);</text>
-  <image href="./security.png" x="350" y="890" width="30" height="30"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/security.png?raw=true" x="350" y="890" width="30" height="30"></image>
   <text x="60" y="950" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Spring Data Jpa"</tspan>);</text>
-  <image href="./spring-data.png" x="350" y="930" width="30" height="30"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/spring-data.png?raw=true" x="350" y="930" width="30" height="30"></image>
   <text x="60" y="990" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Jpa"</tspan>);</text>
-  <image href="./jpa.png" x="350" y="971" width="32" height="32"></image>
+  <image href=".https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/jpa.png?raw=true" x="350" y="971" width="32" height="32"></image>
 
   <text x="60" y="1070" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    MySql"</tspan>);</text>
-  <image href="./mysql.png" x="226" y="1050" width="30" height="30"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/mysql.png?raw=true" x="226" y="1050" width="30" height="30"></image>
   <text x="60" y="1110" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    MariaDb"</tspan>);</text>
-  <image href="./mariadb.svg" x="222" y="1090" width="30" height="30"></image>
+  <image href="https://raw.githubusercontent.com/seokhyeong9171/seokhyeong9171/f05ffe0c72dbf48270933e4bbb812ba99af8539b/resource/mariadb.svg" x="222" y="1090" width="30" height="30"></image>
   <text x="60" y="1150" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Redis"</tspan>);</text>
-  <image href="./redis.png" x="226" y="1130" width="30" height="30"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/redis.png?raw=true" x="226" y="1130" width="30" height="30"></image>
   <text x="60" y="1190" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Kafka"</tspan>);</text>
-  <image href="./kafka.png" x="226" y="1168" width="32" height="32"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/kafka.png?raw=true" x="226" y="1168" width="32" height="32"></image>
 
   <text x="60" y="1270" class="code"><tspan class="purple">deployment</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    AWS"</tspan>);</text>
-  <image href="./aws.png" x="246" y="1250" width="30" height="30"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/aws.png?raw=true" x="246" y="1250" width="30" height="30"></image>
   <text x="60" y="1310" class="code"><tspan class="purple">deployment</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Docker"</tspan>);</text>
-  <image href="./docker.svg" x="247" y="1290" width="30" height="30"></image>
+  <image href="https://raw.githubusercontent.com/seokhyeong9171/seokhyeong9171/f05ffe0c72dbf48270933e4bbb812ba99af8539b/resource/docker.svg" x="247" y="1290" width="30" height="30"></image>
   <text x="60" y="1350" class="code"><tspan class="purple">deployment</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Kubernetes"</tspan>);</text>
-  <image href="./kubernetes.png" x="247" y="1330" width="30" height="30"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/kubernetes.png?raw=true" x="247" y="1330" width="30" height="30"></image>
   <text x="40" y="1390" class="code">}</text>
 
   <text x="20" y="1430" class="code">}</text>
