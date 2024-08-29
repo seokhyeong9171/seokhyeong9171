@@ -48,7 +48,7 @@
   <text x="60" y="950" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Spring Data Jpa"</tspan>);</text>
   <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/spring-data.png?raw=true" x="350" y="930" width="30" height="30"></image>
   <text x="60" y="990" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Jpa"</tspan>);</text>
-  <image href=".https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/jpa.png?raw=true" x="350" y="971" width="32" height="32"></image>
+  <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/jpa.png?raw=true" x="350" y="971" width="32" height="32"></image>
 
   <text x="60" y="1070" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    MySql"</tspan>);</text>
   <image href="https://github.com/seokhyeong9171/seokhyeong9171/blob/main/resource/mysql.png?raw=true" x="226" y="1050" width="30" height="30"></image>
