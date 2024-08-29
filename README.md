@@ -5,5 +5,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokhyeong9171&layout=compact&theme=radical" alt="Top Langs" height="160" />
 </div>
 
-<img src="./resource/info.png" width="50%">
+<img src="./resource/info.png" >
 
