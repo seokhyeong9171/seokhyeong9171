@@ -1,0 +1,71 @@
+<svg width="1100" height="1450" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .code { font-family: monospace; font-size: 18px; fill: white; }
+    .keyword { fill: #007acc; font-weight: bold; }
+    .string { fill: #d14; }
+    .green { fill: green;  font-family: monospace; font-size: 18px; }
+    .skyblue { fill: skyblue; font-weight: bold; font-size: 21px; }
+    .purple { fill: #b996e2; font-weight: bold; font-size: 19px; }
+    .comment { fill: #888; font-style: italic; }
+    .greenbold { fill: #0a0; font-weight: bold; font-family: monospace; font-size: 22px; }
+    .maininfo { fill: #0a0; font-weight: bold; font-family: monospace; font-size: 24px; }
+    .description { font-family: monospace; font-size: 18px; fill: white; font-size: 21px; }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#161c21"/>
+  <!-- Code Text -->
+  <text x="20" y="30" class="code"><tspan class="keyword">public</tspan> class <tspan class="skyblue">Introduce_Myself</tspan> {</text>
+
+
+
+  <text x="40" y="110" class="code"><tspan class="keyword">static</tspan> final <tspan class="type">String</tspan> <tspan class="skyblue">NAME</tspan> = <tspan class="maininfo">"Hong SeokHyeong"</tspan>;</text>
+  <text x="40" y="150" class="code"><tspan class="keyword">static</tspan> final <tspan class="type">LocalDate</tspan> <tspan class="skyblue">BIRTH</tspan> = LocalDate.of(<tspan class="maininfo">1998, 9, 19</tspan>);</text>
+
+  <text x="40" y="230" class="code">String <tspan class="skyblue">description</tspan> =</text>
+  <text x="70" y="270" class="green">"""</text>
+  <text x="70" y="310" class="description">I'm a backend developer with a passion for constant exploration and learning.</text>
+  <text x="70" y="350" class="description">I thrive on solving complex problems and continuously expanding my knowledge</text>
+  <text x="100" y="390" class="description">to create efficient and scalable solutions.</text>
+  <text x="70" y="430" class="green">"""</text>
+
+  <text x="40" y="510" class="code">List&lt;String&gt; <tspan class="purple">language</tspan> = new <tspan class="type">ArrayList&lt;&gt;</tspan>();</text>
+  <text x="40" y="550" class="code">List&lt;String&gt; <tspan class="purple">libraryAndFramework</tspan> = new <tspan class="type">ArrayList&lt;&gt;</tspan>();</text>
+  <text x="40" y="590" class="code">List&lt;String&gt; <tspan class="purple">database</tspan> = new <tspan class="type">ArrayList&lt;&gt;</tspan>();</text>
+  <text x="40" y="630" class="code">List&lt;String&gt; <tspan class="purple">deployment</tspan> = new <tspan class="type">ArrayList&lt;&gt;</tspan>();</text>
+
+  <text x="40" y="710" class="code"><tspan class="keyword">void</tspan> learn() {</text>
+  <text x="60" y="750" class="code"><tspan class="purple">language</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    JAVA"</tspan>);</text>
+  <image href="./java.png" x="224" y="730" width="32" height="32"></image>
+  <text x="60" y="790" class="code"><tspan class="purple">language</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Thymeleaf"</tspan>);</text>
+  <image href="./thymeleaf.png" x="224" y="770" width="32" height="32"></image>
+
+
+  <text x="60" y="870" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Spring boot"</tspan>);</text>
+  <image href="./spring.png" x="350" y="850" width="30" height="30"></image>
+  <text x="60" y="910" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Spring Security"</tspan>);</text>
+  <image href="./security.png" x="350" y="890" width="30" height="30"></image>
+  <text x="60" y="950" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Spring Data Jpa"</tspan>);</text>
+  <image href="./spring-data.png" x="350" y="930" width="30" height="30"></image>
+  <text x="60" y="990" class="code"><tspan class="purple">libraryAndFramework</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Jpa"</tspan>);</text>
+  <image href="./jpa.png" x="350" y="971" width="32" height="32"></image>
+
+  <text x="60" y="1070" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    MySql"</tspan>);</text>
+  <image href="./mysql.png" x="226" y="1050" width="30" height="30"></image>
+  <text x="60" y="1110" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    MariaDb"</tspan>);</text>
+  <image href="./mariadb.svg" x="222" y="1090" width="30" height="30"></image>
+  <text x="60" y="1150" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Redis"</tspan>);</text>
+  <image href="./redis.png" x="226" y="1130" width="30" height="30"></image>
+  <text x="60" y="1190" class="code"><tspan class="purple">database</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Kafka"</tspan>);</text>
+  <image href="./kafka.png" x="226" y="1168" width="32" height="32"></image>
+
+  <text x="60" y="1270" class="code"><tspan class="purple">deployment</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    AWS"</tspan>);</text>
+  <image href="./aws.png" x="246" y="1250" width="30" height="30"></image>
+  <text x="60" y="1310" class="code"><tspan class="purple">deployment</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Docker"</tspan>);</text>
+  <image href="./docker.svg" x="247" y="1290" width="30" height="30"></image>
+  <text x="60" y="1350" class="code"><tspan class="purple">deployment</tspan>.add(<tspan class="greenbold" xml:space="preserve">"    Kubernetes"</tspan>);</text>
+  <image href="./kubernetes.png" x="247" y="1330" width="30" height="30"></image>
+  <text x="40" y="1390" class="code">}</text>
+
+  <text x="20" y="1430" class="code">}</text>
+</svg>
